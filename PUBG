@@ -1,5 +1,5 @@
 /ip firewall address-list
-add address=13.12.63.251 comment=PUBG list=Routed_IP
+add address=13.12.0.0/18 comment=PUBG list=Routed_IP
 add address=3.80.0.0/12 comment=PUBG list=Routed_IP
 add address=3.208.0.0/12 comment=PUBG list=Routed_IP
 add address=3.224.0.0/12 comment=PUBG list=Routed_IP
