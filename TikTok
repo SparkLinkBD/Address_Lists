@@ -1,11 +1,13 @@
 /ip firewall address-list
- add comment=TikTok.com address=tiktok.com list=tiktok
+ add comment=TikTok.com address=23.44.10.0/24 list=tiktok
  add comment=TikTok.com address=23.58.120.0/24 list=tiktok
  add comment=TikTok.com address=23.62.101.0/24 list=tiktok
+ add comment=TikTok.com address=23.72.88.0/24 list=tiktok
+ add comment=TikTok.com address=23.200.24.0/24 list=tiktok
+ add comment=TikTok.com address=23.204.146.0/24 list=tiktok
+ add comment=TikTok.com address=23.205.118.0/24 list=tiktok
+ add comment=TikTok.com address=23.213.0.0/23 list=tiktok
+ add comment=TikTok.com address=45.136.152.0/24 list=tiktok
+ add comment=TikTok.com address=125.56.199.0/24 list=tiktok
  add comment=TikTok.com address=185.180.14.0/23 list=tiktok
  add comment=TikTok.com address=212.102.54.0/23 list=tiktok
- add comment=TikTok.com address=23.204.146.0/24 list=tiktok
- add comment=TikTok.com address=125.56.199.0/24 list=tiktok
- add comment=TikTok.com address=23.200.24.0/24 list=tiktok
- add comment=TikTok.com address=45.136.152.0/24 list=tiktok
- add comment=TikTok.com address=23.205.118.0/24 list=tiktok
